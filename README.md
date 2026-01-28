@@ -12,3 +12,6 @@ Criei uma plataforma web onde o cliente faz o pedido sozinho e o dono da lanchon
 O sistema foi desenvolvido em Python utilizando o framework Streamlit para a interface.
 • Os dados são armazenados em SQLite e processados com a biblioteca Pandas para a parte analítica.
 • O projeto está hospedado na nuvem (Streamlit Cloud), integrado diretamente com o GitHub.
+
+site: https://sistema-lanchonete-v1.streamlit.app/
+senha: 692026
